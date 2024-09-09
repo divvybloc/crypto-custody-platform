@@ -1,7 +1,7 @@
 # Cryptocurrency Custody Platform
 
 ## Project Overview
-Prime Trust launched a cutting-edge cryptocurrency custody platform to secure digital assets, ensure regulatory compliance, and meet increasing customer demands for secure and compliant asset management.
+Launched a cutting-edge cryptocurrency custody platform to secure digital assets, ensure regulatory compliance, and meet increasing customer demands for secure and compliant asset management.
 
 ## Key Features
 - High-level security and regulatory compliance for digital assets.
